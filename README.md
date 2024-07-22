@@ -1,0 +1,2 @@
+# pretrained_biklaas_all_metrics_and_predicts
+бинарный предобученный классификатор со всеми метриками и предсказанием
